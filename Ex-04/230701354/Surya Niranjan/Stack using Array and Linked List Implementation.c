@@ -1,3 +1,4 @@
+//Surya Niranjan S, 230701354, Stack using Array and Linked List Implementation
 #include <stdio.h> 
 #include <stdlib.h> 
 // Structure for node in linked list implementation 
