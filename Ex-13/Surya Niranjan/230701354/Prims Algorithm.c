@@ -1,4 +1,4 @@
- 
+ //Surya Niranjan S, 230701354, Prims Algorithm
 #include <stdio.h> 
 #include <stdbool.h> 
  
