@@ -1,3 +1,4 @@
+//Surya Niranjan S 230701354 Collision Resolution Techniques
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <stdbool.h> 
