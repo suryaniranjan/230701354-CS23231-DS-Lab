@@ -1,3 +1,4 @@
+//Surya Niranjan S, 230701354, Queue using Array and linked list.
 #include <stdio.h> 
 #include <stdlib.h> 
  
