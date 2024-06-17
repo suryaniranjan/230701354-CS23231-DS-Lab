@@ -1,4 +1,4 @@
-    
+//Surya Niranjan S , 230701354 , Singly Linked List
 #include <stdio.h> 
 #include <stdlib.h> 
   
