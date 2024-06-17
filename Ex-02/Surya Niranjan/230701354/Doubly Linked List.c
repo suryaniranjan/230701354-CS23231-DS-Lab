@@ -1,3 +1,4 @@
+//Surya Niranjan S , 230701354 , Doubly Linked List
 #include <stdio.h> 
 #include <stdlib.h> 
   
